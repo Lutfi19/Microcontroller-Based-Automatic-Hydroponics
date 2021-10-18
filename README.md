@@ -1,0 +1,2 @@
+# Microcontroller-Based-Automatic-Hydroponics
+The hydroponic automatic project is intended for UMKM at Durian village, Pesawaran district, Lampung province. This project was carried out during a real work lecture program organized by the Sumatera Institute of Technology. System features: Automatic filling of water to the tower, Reading the value of humidity and plant temperature, Plant monitoring through the website.
